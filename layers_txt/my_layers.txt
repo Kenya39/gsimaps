@@ -6,7 +6,7 @@
        "title": "池尻大橋からの徒歩", 
        "iconUrl": "", 
        "url": "http://kenya39.github.io/gsimaps/example231//{z}/{x}/{y}.geojson", 
-       "maxZoom":15,
+       "maxZoom":17,
        "maxNativeZoom":2,
        "subdomains": "", 
        "attribution": "", 
